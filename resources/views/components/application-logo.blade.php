@@ -1,0 +1,1 @@
+<img src="{{asset('assets/logo.png')}}" alt="App Logo" width="50">
